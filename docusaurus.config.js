@@ -9,7 +9,7 @@ const config = {
     favicon: "img/logo.png",
 
     url: "https://planewiki.lory.dev",
-    baseUrl: "/",
+    baseUrl: "/website",
 
     organizationName: "Plane-Wiki",
     projectName: "website",
