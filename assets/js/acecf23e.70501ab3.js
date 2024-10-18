@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkplanewiki=self.webpackChunkplanewiki||[]).push([[903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/website/blog","blogTitle":"Blog","authorsListPath":"/website/blog/authors"}')}}]);
