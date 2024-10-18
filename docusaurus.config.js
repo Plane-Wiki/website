@@ -11,8 +11,9 @@ const config = {
     url: "https://planewiki.lory.dev",
     baseUrl: "/",
 
-    organizationName: "Lory",
-    projectName: "planewiki",
+    organizationName: "Plane-Wiki",
+    projectName: "website",
+    trailingSlash: false,
 
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
