@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Plane Wiki Blog</title>
-        <link>https://planewiki.lory.dev/website/blog</link>
+        <link>https://planewiki.lory.dev/blog</link>
         <description>Plane Wiki Blog</description>
         <lastBuildDate>Fri, 18 Oct 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,14 +10,14 @@
         <language>en</language>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://planewiki.lory.dev/website/blog/welcome</link>
-            <guid>https://planewiki.lory.dev/website/blog/welcome</guid>
+            <link>https://planewiki.lory.dev/blog/welcome</link>
+            <guid>https://planewiki.lory.dev/blog/welcome</guid>
             <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to the Plane Wiki blog! (click read more)]]></description>
             <content:encoded><![CDATA[<p>Welcome to the Plane Wiki blog! (click read more)</p>
 <p>This website is made by Lory, and the information is provided by Mattia.</p>
 <p>Enjoy your flight!</p>
-<p><img decoding="async" loading="lazy" alt="PlaneImg" src="https://planewiki.lory.dev/website/assets/images/plane-5a427636b4c25913edeba6bc02809945.jpg" width="1536" height="2048" class="img_ev3q"></p>]]></content:encoded>
+<p><img decoding="async" loading="lazy" alt="PlaneImg" src="https://planewiki.lory.dev/assets/images/plane-5a427636b4c25913edeba6bc02809945.jpg" width="1536" height="2048" class="img_ev3q"></p>]]></content:encoded>
         </item>
     </channel>
 </rss>
