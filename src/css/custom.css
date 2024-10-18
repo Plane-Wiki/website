@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;700;900&display=swap");
+
+body {
+    overflow-x: hidden !important;
+}
+
+#__docusaurus {
+    background-color: #000000;
+}
+
+.navbar {
+    background-color: #00000070;
+}
+
+.navbar-sidebar {
+    background-color: #000000bb;
+}
+
+.navbar:not(.navbar-sidebar--show) {
+    backdrop-filter: blur(7px);
+}
+
+.section {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.section-image {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.vertical-section {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.vertical-section > * {
+    display: inline-block;
+}
+
+.split-section img {
+    width: 40%;
+}
+
+/* mobile .section */
+@media (max-width: 1000px) {
+    .split-section {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .split-section img {
+        width: 90%;
+    }
+}
+
+.plane-gradient {
+    background: #00a6cf;
+    background: linear-gradient(to bottom, #006bcf 0%, #bbdeff 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.alitalia-gradient {
+    background: #00750a;
+    background: linear-gradient(to bottom, #009e22 0%, #bbffc1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.friends-gradient {
+    background: #00cfcf;
+    background: linear-gradient(to bottom, #9d00e6 0%, rgb(255, 171, 171) 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.donate-button {
+    font-size: 4rem;
+    color: white;
+    background: rgb(0, 88, 147);
+    background: linear-gradient(337deg, rgb(27, 0, 147) 0%, rgba(59, 116, 172, 1) 100%);
+    padding: 1rem 3rem;
+    border-radius: 2rem;
+    text-decoration: none;
+    -webkit-box-shadow: 0px 0px 200px -13px rgba(61, 64, 255, 0.36);
+    -moz-box-shadow: 0px 0px 200px -13px rgba(61, 64, 255, 0.36);
+    box-shadow: 0px 0px 200px -13px rgba(61, 64, 255, 0.36);
+    transition: all 0.6s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.donate-button:hover {
+    color: white;
+    text-decoration: none;
+    -webkit-box-shadow: 0px 0px 400px 35px rgba(61, 64, 255, 0.42);
+    -moz-box-shadow: 0px 0px 400px 35px rgba(61, 64, 255, 0.42);
+    box-shadow: 0px 0px 400px 35px rgba(61, 64, 255, 0.42);
+}
