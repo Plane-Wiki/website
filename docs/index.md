@@ -19,4 +19,4 @@ Mattia is an airplane enthusiast that's helping me with the website by providing
 
 ## Featured Article
 
-This week's featured article is [Boeing 747](./airplanes/747).
+This week's featured article is [Boeing 747](/docs/airplanes/747).
