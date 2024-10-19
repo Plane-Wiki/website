@@ -12,7 +12,7 @@
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "deploygh": "gh-pages -d build"
+    "deploygh": "gh-pages --cname planewiki.lory.dev -d build"
   },
   "dependencies": {
     "@docusaurus/core": "3.5.2",
