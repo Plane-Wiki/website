@@ -9,25 +9,25 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>it</language>
         <item>
-            <title><![CDATA[Contribute to Plane Wiki]]></title>
+            <title><![CDATA[Contribuisci a Plane Wiki]]></title>
             <link>https://planewiki.lory.dev/it/blog/contribute</link>
             <guid>https://planewiki.lory.dev/it/blog/contribute</guid>
             <pubDate>Sat, 19 Oct 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[This blog post will explain how you can contribute to the Plane Wiki. (click read more)]]></description>
-            <content:encoded><![CDATA[<p>This blog post will explain how you can contribute to the Plane Wiki. (click read more)</p>
-<p>We currently do not have any way for the community to contribute to the Plane Wiki, but we're planning to set up either Github pull requests, or Discord tickets/requests.</p>
-<p>Sorry for the disappointment.
+            <description><![CDATA[Questo post spiegherà come contribuire a Plane Wiki.]]></description>
+            <content:encoded><![CDATA[<p>Questo post spiegherà come contribuire a Plane Wiki.</p>
+<p>Al momento non abbiamo un modo per consentire alla comunità di contribuire a Plane Wiki, ma stiamo pensando di usare pull request su Github o ticket/richieste su Discord.</p>
+<p>Mi dispiace per la delusione.
 <img decoding="async" loading="lazy" alt="pic4" src="https://planewiki.lory.dev/it/assets/images/pic5-3d10210564d978a95e0190aab7188a4a.jpg" width="5760" height="3840" class="img_ev3q"></p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Welcome]]></title>
+            <title><![CDATA[Benvenuto]]></title>
             <link>https://planewiki.lory.dev/it/blog/welcome</link>
             <guid>https://planewiki.lory.dev/it/blog/welcome</guid>
             <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to the Plane Wiki blog! (click read more)]]></description>
-            <content:encoded><![CDATA[<p>Welcome to the Plane Wiki blog! (click read more)</p>
-<p>This website is made by Lory, and the information is provided by Mattia.</p>
-<p>Enjoy your flight!</p>
+            <description><![CDATA[Benvenuto sul blog di Plane Wiki!]]></description>
+            <content:encoded><![CDATA[<p>Benvenuto sul blog di Plane Wiki!</p>
+<p>Questo sito è programmato da Lory, e le informazioni sono fornite da Mattia.</p>
+<p>Buon soggiorno!</p>
 <p><img decoding="async" loading="lazy" alt="PlaneImg" src="https://planewiki.lory.dev/it/assets/images/plane-5a427636b4c25913edeba6bc02809945.jpg" width="1536" height="2048" class="img_ev3q"></p>]]></content:encoded>
         </item>
     </channel>
