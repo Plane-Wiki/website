@@ -10,7 +10,6 @@ This blog post will explain how you can contribute to the Plane Wiki. (click rea
 
 <!-- truncate -->
 
-We currently do not have any way for the community to contribute to the Plane Wiki, but we're planning to set up either Github pull requests, or Discord tickets/requests.
+You can contribute to the wiki by going [here](https://holocron.so/org/cm2gapuds00083a5bzz7gv9p7/p/plane-wiki-website/b/main/suggest)
 
-Sorry for the disappointment.
 ![pic4](/img/landing/pic5.jpg)

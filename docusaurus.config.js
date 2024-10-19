@@ -30,11 +30,11 @@ const config = {
             ({
                 docs: {
                     sidebarPath: "./sidebars.js",
-                    editUrl: "https://lory.dev",
+                    editUrl: "null",
                 },
                 blog: {
                     showReadingTime: true,
-                    editUrl: "https://lory.dev",
+                    editUrl: "null",
                 },
                 theme: {
                     customCss: "./src/css/custom.css",
