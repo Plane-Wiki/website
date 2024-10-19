@@ -64,6 +64,9 @@ const config = {
                         label: "lory.dev",
                         position: "right",
                     },
+                    {
+                        type: 'localeDropdown',
+                    },
                 ],
             },
             prism: {

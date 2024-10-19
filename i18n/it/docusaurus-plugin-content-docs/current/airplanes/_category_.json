@@ -1,0 +1,9 @@
+{
+    "label": "Aerei",
+    "position": 1,
+    "link": {
+      "type": "generated-index",
+      "description": "Gli aerei sono velivoli ad ala fissa che vengono spinti in avanti da motori a reazione, eliche o motori a razzo."
+    }
+  }
+  

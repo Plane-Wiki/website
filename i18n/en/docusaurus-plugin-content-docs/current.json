@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Airplanes": {
+    "message": "Airplanes",
+    "description": "The label for category Airplanes in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Airplanes.link.generated-index.description": {
+    "message": "Airplanes are fixed-wing aircrafts that are propelled forward by thrust from jet engines, propellers, or rocket engines. ",
+    "description": "The generated-index page description for category Airplanes in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Airbus": {
+    "message": "Airbus",
+    "description": "The label for category Airbus in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Airbus.link.generated-index.description": {
+    "message": "A list of Airbus airplanes.",
+    "description": "The generated-index page description for category Airbus in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Boeing": {
+    "message": "Boeing",
+    "description": "The label for category Boeing in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Boeing.link.generated-index.description": {
+    "message": "A list of Boeing airplanes.",
+    "description": "The generated-index page description for category Boeing in sidebar tutorialSidebar"
+  }
+}

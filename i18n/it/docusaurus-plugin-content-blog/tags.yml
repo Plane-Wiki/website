@@ -1,0 +1,4 @@
+default:
+  label: Blog
+  permalink: /blog
+  description: Welcome to the PlaneWiki blog

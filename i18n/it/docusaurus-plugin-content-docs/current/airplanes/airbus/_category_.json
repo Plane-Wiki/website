@@ -1,0 +1,9 @@
+{
+    "label": "Airbus",
+    "position": 1,
+    "link": {
+      "type": "generated-index",
+      "description": "Una lista di aerei Airbus."
+    }
+  }
+  

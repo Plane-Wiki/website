@@ -2,6 +2,8 @@ import React from "react";
 import Layout from "@theme/Layout";
 import { Parallax, ParallaxProvider } from "react-scroll-parallax";
 import { IconHeartFilled } from "@tabler/icons-react";
+import useBaseUrl, { useBaseUrlUtils } from '@docusaurus/useBaseUrl';
+import Translate from "@docusaurus/Translate";
 
 export default function Index() {
     function ParallaxSectionImage({ src, alt, ...props }) {
@@ -31,7 +33,7 @@ export default function Index() {
                                     height: "30vw",
                                 }}
                                 alt="Logo"
-                                src="/img/alitalia.png"
+                                src="img/alitalia.png"
                             />
                         </Parallax>
                     </div>
@@ -42,14 +44,14 @@ export default function Index() {
                         className="section"
                     >
                         <span style={{ fontSize: "4rem", fontFamily: "inter", textAlign: "center" }}>
-                            In living memory of <span className="alitalia-gradient">Alitalia</span>
+                            <Translate id="alitalia.inlivingmemoryof">In living memory of</Translate> <span className="alitalia-gradient">Alitalia</span>
                         </span>
                     </div>
 
-                    <ParallaxSectionImage src="/img/alitalia/pic1.jpg" alt="Picture1" translateX={["-6%", "6%"]} />
-                    <ParallaxSectionImage src="/img/alitalia/pic2.jpg" alt="Picture2" translateX={["6%", "-6%"]} />
-                    <ParallaxSectionImage src="/img/alitalia/pic3.jpg" alt="Picture3" translateX={["-6%", "6%"]} />
-                    <ParallaxSectionImage src="/img/alitalia/pic4.jpg" alt="Picture4" translateX={["6%", "-6%"]} />
+                    <ParallaxSectionImage src="img/alitalia/pic1.jpg" alt="Picture1" translateX={["-6%", "6%"]} />
+                    <ParallaxSectionImage src="img/alitalia/pic2.jpg" alt="Picture2" translateX={["6%", "-6%"]} />
+                    <ParallaxSectionImage src="img/alitalia/pic3.jpg" alt="Picture3" translateX={["-6%", "6%"]} />
+                    <ParallaxSectionImage src="img/alitalia/pic4.jpg" alt="Picture4" translateX={["6%", "-6%"]} />
                     <div
                         style={{
                             height: "100vh",
@@ -57,7 +59,7 @@ export default function Index() {
                         className="section"
                     >
                         <Parallax speed={-20}>
-                            <a className="donate-button" href="./docs" target="_blank">
+                            <a className="donate-button" href={ useBaseUrl('/docs') } target="_blank">
                                 Wiki
                             </a>
                         </Parallax>
