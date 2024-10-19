@@ -4,10 +4,21 @@
         <title>Plane Wiki Blog</title>
         <link>https://planewiki.lory.dev/it/blog</link>
         <description>Plane Wiki Blog</description>
-        <lastBuildDate>Fri, 18 Oct 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Oct 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>it</language>
+        <item>
+            <title><![CDATA[Contribute to Plane Wiki]]></title>
+            <link>https://planewiki.lory.dev/it/blog/contribute</link>
+            <guid>https://planewiki.lory.dev/it/blog/contribute</guid>
+            <pubDate>Sat, 19 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[This blog post will explain how you can contribute to the Plane Wiki. (click read more)]]></description>
+            <content:encoded><![CDATA[<p>This blog post will explain how you can contribute to the Plane Wiki. (click read more)</p>
+<p>We currently do not have any way for the community to contribute to the Plane Wiki, but we're planning to set up either Github pull requests, or Discord tickets/requests.</p>
+<p>Sorry for the disappointment.
+<img decoding="async" loading="lazy" alt="pic4" src="https://planewiki.lory.dev/it/assets/images/pic5-3d10210564d978a95e0190aab7188a4a.jpg" width="5760" height="3840" class="img_ev3q"></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://planewiki.lory.dev/it/blog/welcome</link>

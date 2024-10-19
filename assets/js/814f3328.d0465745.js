@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkplanewiki=self.webpackChunkplanewiki||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Contribute to Plane Wiki","permalink":"/blog/contribute","unlisted":false,"date":"2024-10-19T00:00:00.000Z"},{"title":"Welcome","permalink":"/blog/welcome","unlisted":false,"date":"2024-10-18T00:00:00.000Z"}]}')}}]);

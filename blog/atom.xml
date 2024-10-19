@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://planewiki.lory.dev/blog</id>
     <title>Plane Wiki Blog</title>
-    <updated>2024-10-18T00:00:00.000Z</updated>
+    <updated>2024-10-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://planewiki.lory.dev/blog"/>
     <subtitle>Plane Wiki Blog</subtitle>
     <icon>https://planewiki.lory.dev/img/logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Contribute to Plane Wiki]]></title>
+        <id>https://planewiki.lory.dev/blog/contribute</id>
+        <link href="https://planewiki.lory.dev/blog/contribute"/>
+        <updated>2024-10-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This blog post will explain how you can contribute to the Plane Wiki. (click read more)]]></summary>
+        <content type="html"><![CDATA[<p>This blog post will explain how you can contribute to the Plane Wiki. (click read more)</p>
+<p>We currently do not have any way for the community to contribute to the Plane Wiki, but we're planning to set up either Github pull requests, or Discord tickets/requests.</p>
+<p>Sorry for the disappointment.
+<img decoding="async" loading="lazy" alt="pic4" src="https://planewiki.lory.dev/assets/images/pic5-3d10210564d978a95e0190aab7188a4a.jpg" width="5760" height="3840" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Lory</name>
+            <uri>https://lory.dev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://planewiki.lory.dev/blog/welcome</id>

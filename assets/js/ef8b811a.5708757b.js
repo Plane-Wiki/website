@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkplanewiki=self.webpackChunkplanewiki||[]).push([[947],{6600:e=>{e.exports=JSON.parse('{"authors":[{"name":"Lory","title":"Game & Web Developer","url":"https://lory.dev","key":"lory","page":null,"count":1},{"name":"Mattia","title":"Airplane Enthusiast","key":"mattia","page":null,"count":0}]}')}}]);
