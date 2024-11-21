@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://planewiki.lory.dev/blog</id>
     <title>Plane Wiki Blog</title>
-    <updated>2024-10-19T00:00:00.000Z</updated>
+    <updated>2024-11-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://planewiki.lory.dev/blog"/>
     <subtitle>Plane Wiki Blog</subtitle>
     <icon>https://planewiki.lory.dev/img/logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Plane Wiki 21 November Content Update]]></title>
+        <id>https://planewiki.lory.dev/blog/update-11-21</id>
+        <link href="https://planewiki.lory.dev/blog/update-11-21"/>
+        <updated>2024-11-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With the help of Mattia, the Plane Wiki has been updated. Click Read More to view the new changes.]]></summary>
+        <content type="html"><![CDATA[<p>With the help of Mattia, the Plane Wiki has been updated. Click Read More to view the new changes.</p>
+<p><strong>747-100</strong>, <strong>747-200</strong>, <strong>747-300</strong>, <strong>747-400</strong> and <strong>747-8</strong> have been added, as well as their F variants and their images.</p>
+<p><img decoding="async" loading="lazy" alt="allahakbar" src="https://planewiki.lory.dev/assets/images/allahakbar-9362522695f691fda5c3730912862eff.jpeg" width="640" height="357" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Lory</name>
+            <uri>https://lory.dev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Contribute to Plane Wiki]]></title>
         <id>https://planewiki.lory.dev/blog/contribute</id>

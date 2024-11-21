@@ -4,10 +4,20 @@
         <title>Plane Wiki Blog</title>
         <link>https://planewiki.lory.dev/blog</link>
         <description>Plane Wiki Blog</description>
-        <lastBuildDate>Sat, 19 Oct 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Plane Wiki 21 November Content Update]]></title>
+            <link>https://planewiki.lory.dev/blog/update-11-21</link>
+            <guid>https://planewiki.lory.dev/blog/update-11-21</guid>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[With the help of Mattia, the Plane Wiki has been updated. Click Read More to view the new changes.]]></description>
+            <content:encoded><![CDATA[<p>With the help of Mattia, the Plane Wiki has been updated. Click Read More to view the new changes.</p>
+<p><strong>747-100</strong>, <strong>747-200</strong>, <strong>747-300</strong>, <strong>747-400</strong> and <strong>747-8</strong> have been added, as well as their F variants and their images.</p>
+<p><img decoding="async" loading="lazy" alt="allahakbar" src="https://planewiki.lory.dev/assets/images/allahakbar-9362522695f691fda5c3730912862eff.jpeg" width="640" height="357" class="img_ev3q"></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Contribute to Plane Wiki]]></title>
             <link>https://planewiki.lory.dev/blog/contribute</link>
